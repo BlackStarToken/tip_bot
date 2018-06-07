@@ -1,0 +1,12 @@
+dev.rb
+get_sample.rb
+interface.json
+tip_bot.db
+tip_bot_dev.log
+tip_bot.log
+開発メモ
+balance.txt
+balance_address.txt
+reset_vips.rb
+send_to_pc_wallet.rb
+tip_bot_devlog
